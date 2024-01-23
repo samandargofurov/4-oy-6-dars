@@ -1,5 +1,5 @@
-// 1-masala
-// 
+// 1. Oyning raqamlari beriladi va uni so'zlar bilan ifodalab beruvchi algoritm yozing(switch...case)
+
 // let n = +prompt("raqam kiriting: ");
 // let result = "";
 
@@ -48,11 +48,57 @@
 
 // console.log(result);
 
-// 2-masala
-// 
-let n = 5;
-let sum = 0;
+// 2. Oyning raqamlari beriladi va shu oy qaysi faslga tegishli ekanini aniqlovchi alogoritm yozing.
 
-for (let i = 0; i <= n; i++){
-  
-}
+
+
+// 3. 1 dan n gacha barcha tub sonlarni ekranga chiqaruvchi algoritm yozing.
+
+// let n = 30;
+// let counter = 0;
+
+// for (let i = 0; i <= n; i++) {
+//     if (n % i == 0) {
+//         console.log(i);
+//     }
+// }
+
+// 4. n soni berilgan va shuncha son kiritilishini so'rovchi kiritilgan barcha sonlarning yig'indisini topuvchi algoritm yozing
+
+// let n = 12;
+// let sum = 0;
+// for (let i = 1; i <= n; i++) {
+//     sum += i
+// }
+
+// console.log(sum);
+
+// 5. 1 dan n gacha bo'lgan sonlarni teskari tartibda chiqaruvchi algoritm yozing.
+
+// let a = 1234;
+// let res = "";
+// let i = 1;
+// while (i <= a) {
+    
+//     i++;
+// }
+
+// 6. Berilgan sonning faktorialini topuvchi algoritm yozing.
+
+// let n = 4;
+// let sum = 1;
+// for (let i = 1; i <= n; i++) {
+//     sum *= i;
+// }
+
+// console.log(sum);
+
+// 7. Ixtiyoriy sonning raqamlari yigindisini topuvchi algoritm yozing (for)
+
+// let n = 5;
+// let sum = 0;
+// for (let i = 1; i <= n; i++) {
+//     sum += i;
+// }
+
+// console.log(sum);
